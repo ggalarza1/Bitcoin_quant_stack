@@ -1,2 +1,4 @@
-# Bitcoin_Monte_Carlo
-Simulating the Bitcoin price using the Monte Carlo simulation method 1,000 times. 
+# Bitcoin_quant_stack
+This depository explores the different types of models a quant uses.
+
+The first notebook uses the Monte Carlo method to simulating the Bitcoin price 1,000 times. 
